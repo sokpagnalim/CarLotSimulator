@@ -1,0 +1,14 @@
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.exe
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.deps.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.runtimeconfig.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.runtimeconfig.dev.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.csproj.AssemblyReference.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.AssemblyInfoInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.AssemblyInfo.cs
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.genruntimeconfig.cache
